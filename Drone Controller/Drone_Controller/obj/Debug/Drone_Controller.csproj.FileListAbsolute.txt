@@ -1,0 +1,17 @@
+c:\users\jeriah\documents\visual studio 2015\Projects\Drone Controller\Drone Controller\Drone_Controller\bin\Debug\Drone_Controller.dll
+c:\users\jeriah\documents\visual studio 2015\Projects\Drone Controller\Drone Controller\Drone_Controller\bin\Debug\Drone_Controller.pdb
+c:\users\jeriah\documents\visual studio 2015\Projects\Drone Controller\Drone Controller\Drone_Controller\obj\Debug\Drone_Controller.dll
+c:\users\jeriah\documents\visual studio 2015\Projects\Drone Controller\Drone Controller\Drone_Controller\obj\Debug\Drone_Controller.pdb
+C:\Users\Jeriah\Documents\Visual Studio 2015\Projects\Drone Controller\Drone Controller\Drone_Controller\obj\Debug\Drone_Controller.csprojResolveAssemblyReference.cache
+C:\Users\Jeriah\Documents\Visual Studio 2015\Projects\Drone Controller\Drone Controller\Drone_Controller\obj\Debug\Drone_Controller.dll.mdb
+C:\Users\Jeriah\Documents\Visual Studio 2015\Projects\Drone Controller\Drone Controller\Drone_Controller\bin\Debug\Drone_Controller.dll.mdb
+C:\Users\Jeriah\Documents\Visual Studio 2015\Projects\Drone Controller\Drone Controller\Drone_Controller\obj\Debug\Drone_Controller.dll.mdb
+C:\Users\Jeriah\Documents\Visual Studio 2015\Projects\Drone Controller\Drone Controller\Drone_Controller\bin\Debug\Drone_Controller.dll.mdb
+C:\Users\Jeriah\Documents\Visual Studio 2015\Projects\Drone Controller\Drone Controller\Drone_Controller\obj\Debug\Drone_Controller.dll.mdb
+C:\Users\Jeriah\Documents\Visual Studio 2015\Projects\Drone Controller\Drone Controller\Drone_Controller\bin\Debug\Drone_Controller.dll.mdb
+C:\Users\Jeriah\Documents\Visual Studio 2015\Projects\Drone Controller\Drone Controller\Drone_Controller\obj\Debug\Drone_Controller.dll.mdb
+C:\Users\Jeriah\Documents\Visual Studio 2015\Projects\Drone Controller\Drone Controller\Drone_Controller\bin\Debug\Drone_Controller.dll.mdb
+C:\Users\Jeriah\Documents\Visual Studio 2015\Projects\Drone Controller\Drone Controller\Drone_Controller\obj\Debug\Drone_Controller.dll.mdb
+C:\Users\Jeriah\Documents\Visual Studio 2015\Projects\Drone Controller\Drone Controller\Drone_Controller\bin\Debug\Drone_Controller.dll.mdb
+C:\Users\Jeriah\Documents\Visual Studio 2015\Projects\Drone Controller\Drone Controller\Drone_Controller\obj\Debug\Drone_Controller.dll.mdb
+C:\Users\Jeriah\Documents\Visual Studio 2015\Projects\Drone Controller\Drone Controller\Drone_Controller\bin\Debug\Drone_Controller.dll.mdb

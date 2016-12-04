@@ -1,0 +1,8 @@
+Drone_Controller.Droid.Activity1, Drone_Controller.Droid;md56b7f4a916a1e256d3d5922b1e82b91ef.Activity1
+Drone_Controller.Droid.Activity1, Drone_Controller.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56b7f4a916a1e256d3d5922b1e82b91ef.Activity1
+Drone_Controller.Droid.Activity1;md56b7f4a916a1e256d3d5922b1e82b91ef.Activity1
+drone_controller.droid.Activity1;md56b7f4a916a1e256d3d5922b1e82b91ef.Activity1
+Drone_Controller.Droid.MainActivity, Drone_Controller.Droid;md56b7f4a916a1e256d3d5922b1e82b91ef.MainActivity
+Drone_Controller.Droid.MainActivity, Drone_Controller.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56b7f4a916a1e256d3d5922b1e82b91ef.MainActivity
+Drone_Controller.Droid.MainActivity;md56b7f4a916a1e256d3d5922b1e82b91ef.MainActivity
+drone_controller.droid.MainActivity;md56b7f4a916a1e256d3d5922b1e82b91ef.MainActivity
